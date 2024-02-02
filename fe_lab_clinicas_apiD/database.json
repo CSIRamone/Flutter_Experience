@@ -1,7 +1,18 @@
-
 {
-    "users": [],
-    "adm_users": [],
+    "users": [
+        {
+            "id": "b710b500-8923-1e91-aaab-45e1be06b5fa",
+            "email": "at1@gmail.com",
+            "password": "123123"
+        }
+    ],
+    "adm_users": [
+        {
+            "id": "d72aeb00-8935-1e91-aaab-45e1be06b5fa",
+            "email": "terminal1@gmail.com",
+            "password": "123123"
+        }
+    ],
     "attendantDeskAssignment": [],
     "patients": [],
     "patientInformationForm": [],
